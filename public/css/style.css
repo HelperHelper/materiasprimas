@@ -1,0 +1,34 @@
+body{
+	 
+}
+
+#materiaprima-list .panel-body{
+	padding-left: 0px;
+}
+
+.materiaprima-image-mask{
+
+	width: 99px;
+	height: 100px;
+	overflow: hidden; /* lo que se salga de la mascara lo oculte */
+}
+
+.materiaprima-image-mask .materiaprima-image{
+	width: 105%;
+}
+
+.materiaprima-title{
+	font-weight: bold;
+	font-size: 18px;
+}
+
+
+.materiaprima-title a{
+	
+	color: #444;
+}
+
+.btn-filter{
+	display: block;
+	margin-top: 5px; 
+}
